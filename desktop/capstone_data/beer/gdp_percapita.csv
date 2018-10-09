@@ -1,0 +1,71 @@
+"Per capita real GDP by state (chained 2009 dollars)"
+"Levels" 
+"Bureau of Economic Analysis" 
+"All industry total"
+"Fips","Area","2012","2013","2014","2015","2016"
+"00000","United States",48174,48534,49329,50301,50660
+"01000","Alabama",36440,36674,36473,36818,37158
+"02000","Alaska",73505,69711,67179,65971,63304
+"04000","Arizona",38591,38352,38534,38787,38940
+"05000","Arkansas",34982,35888,36265,36295,36502
+"06000","California",52963,53838,55571,57637,58974
+"08000","Colorado",49673,50523,52105,53007,52863
+"09000","Connecticut",63433,62438,62023,62796,62745
+"10000","Delaware",62182,60738,63555,64809,63578
+"11000","District of Columbia",163196,159264,159369,159530,159141
+"12000","Florida",37711,38018,38466,39334,39608
+"13000","Georgia",42206,42513,43467,44246,45238
+"15000","Hawaii",49479,49484,49591,51052,51964
+"16000","Idaho",34121,34787,35173,35679,36256
+"17000","Illinois",52141,51919,52984,53709,54308
+"18000","Indiana",43077,43876,44818,44721,45717
+"19000","Iowa",48031,48034,49688,51379,52248
+"20000","Kansas",45513,45468,46235,46792,47548
+"21000","Kentucky",38062,38259,38336,38419,38736
+"22000","Louisiana",45489,43721,44475,44751,44440
+"23000","Maine",37727,37508,38149,38415,39125
+"24000","Maryland",53999,53751,54108,54661,55786
+"25000","Massachusetts",62441,61842,62528,64660,65168
+"26000","Michigan",40465,40992,41544,42594,43330
+"27000","Minnesota",51297,52023,53109,53257,54295
+"28000","Mississippi",31807,31952,31635,31714,32334
+"29000","Missouri",41941,42498,42527,42785,42736
+"30000","Montana",38601,38567,39319,40148,40041
+"31000","Nebraska",50655,51597,53109,54048,54660
+"32000","Nevada",43384,43074,43075,44057,44142
+"33000","New Hampshire",48661,48873,49623,51020,51827
+"34000","New Jersey",55106,55659,55563,56196,56428
+"35000","New Mexico",40098,39659,40769,41457,41334
+"36000","New York",62769,62320,63174,64286,64522
+"37000","North Carolina",42619,42909,43400,44180,44194
+"38000","North Dakota",68174,67755,70876,67618,64257
+"39000","Ohio",44911,45262,46671,47098,47419
+"40000","Oklahoma",41880,43317,45418,46370,44418
+"41000","Oregon",49461,48169,48130,49715,50751
+"42000","Pennsylvania",47554,48289,49228,50489,50978
+"44000","Rhode Island",46194,46367,46663,47519,47662
+"45000","South Carolina",35359,35716,36325,36952,37269
+"46000","South Dakota",47070,47003,47039,47980,48306
+"47000","Tennessee",41114,41513,41858,42902,43720
+"48000","Texas",50253,52007,52879,54200,53104
+"49000","Utah",41952,42306,43264,44392,44947
+"50000","Vermont",43099,42989,43222,43605,44354
+"51000","Virginia",51568,51112,50855,51486,51443
+"53000","Washington",53473,54197,55338,56617,57796
+"54000","West Virginia",35532,35772,36017,36233,36155
+"55000","Wisconsin",45422,45895,46456,47268,48063
+"56000","Wyoming",60794,60806,60853,61304,59327
+"91000","New England",57182,56689,57068,58477,58882
+"92000","Mideast",57624,57659,58353,59364,59756
+"93000","Great Lakes",45771,46076,47035,47644,48276
+"94000","Plains",47657,48092,49005,49473,49919
+"95000","Southeast",40428,40543,40910,41547,41867
+"96000","Southwest",46910,48205,49119,50214,49320
+"97000","Rocky Mountain",45058,45634,46727,47610,47653
+"98000","Far West",52479,53029,54362,56166,57319
+"Legend / Footnotes:"
+"1/ The private goods-producing industries consist of agriculture, forestry, fishing, and hunting; mining; construction; and manufacturing."
+"2/ The private services-producing industries consist of utilities; wholesale trade; retail trade; transportation and warehousing, excluding Postal Service; information; finance and insurance; real estate, rental, and leasing; professional, scientific, and technical services; management of companies; administrative and support and waste management and remediation services; educational services; health care and social assistance; arts, entertainment, and recreation; accommodation and food services; and other services (except government and government enterprises)."
+"Note-- NAICS Industry detail is based on the 2007 North American Industry Classification System (NAICS)."
+"Note-- Per capita real GDP statistics for 2010-2017 reflect Census Bureau midyear population estimates available as of December 2017."
+"Last updated: May 4, 2018 -- new statistics for 2017; revised statistics for 2010-2016."
